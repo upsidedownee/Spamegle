@@ -19,4 +19,4 @@ function mudkip()
  document.getElementsByClassName("sendbtn")[0].click();
  }
 
-setInterval("mudkip()",2000);
+setInterval("mudkip()", 5000);
